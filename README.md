@@ -36,3 +36,7 @@ ELISA is a general purpose instruction set architecture written in Python and ba
 
 ## How to test
 `pytest`
+
+## Note:
+This project was a collaboration between Yash and Josh. The following repoitory is a copy of the repo linked below. 
+https://github.com/jsennett/ELISA
